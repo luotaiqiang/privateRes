@@ -1,0 +1,172 @@
+/*
+ * @Author:duyun
+ * @Date: 2017-09-20
+ * @Description: 个股页面样式
+*/
+
+@import "../mixin.less";
+@import "../variable.less";
+
+.stock-cont{
+  width: 900px;
+  float: left;
+  padding: 20px 0;
+  margin: 0 150px;
+  font-size: 1.3rem;
+  .stock-item{
+    .iconfont{
+      font-size: 2.8rem;
+    }
+    .stock-name{
+      float: left;
+      font-size: 2rem;
+      color: @text-color-primary;
+      font-weight: bold;
+      .score{
+        font-size: 1.4rem;
+        color: #fff;
+        background: orange;
+        padding: 0 5px;
+        font-weight: normal;
+      }
+    }
+    .stock-date{
+      padding-top: 16px;
+      color: @text-color-gray;
+    }
+    .stock-done{
+      float: right;
+      color: @text-color-primary;
+      padding-top: 10px;
+      span{
+        padding-right: 15px;
+      }
+      a{
+        cursor: default;
+      }
+    }
+    .stock-item-ul{
+      float: left;
+      line-height: 2em;
+      width: 24%;
+      & .lint {
+        font-weight: 600;
+      }
+    }
+  }
+}
+.kline{
+  position: relative;
+  .done{
+    position: absolute;
+    top: .25em;
+    left: 400px;
+    cursor: pointer;
+    height: 30px;
+    line-height: 30px;
+  }
+}
+// 右侧内容
+.stock-pro{
+  width: 300px;
+  float: left;
+  padding: 20px 0 0 50px;
+  line-height: 1.7em;
+  font-size: 1.3rem;
+  .pro-ad{
+    width: 100%;
+    border-radius: 8px;
+  }
+  .pro-item{
+    margin-bottom: 25px;
+  }
+  .pro-title{
+    font-weight: bold;
+    border-bottom: 1px solid @gray-color;
+  }
+  .pro-item-ul{
+    li{
+      padding-top: 5px;
+      cursor: pointer;
+    }
+  }
+  .el-tabs{
+    margin-top: 5px;
+  }
+}
+
+.kline{
+  position: relative;
+  margin-top: 25px;
+}
+.chart-tab{
+  .tab{
+    position: relative;
+    height: 30px;
+    line-height: 30px;
+    width: 60px;
+    font-size: 14px;
+    color: #8391a5;
+    background: #EDEDED;
+    margin-right: 3px;
+    padding: 0 16px;
+    color: #333;
+    border-radius: 4px 4px 0 0;
+    float: left;
+    cursor: pointer;
+    &.active{
+      background: #004e98;
+      color: #fff;
+    }
+  }
+}
+.chart-contianer{
+  height: 440px;
+  margin-top: 15px;
+  .chart-left{
+    width: 72%;
+    height: 400px;
+    float: left;
+  }
+  .chart-right{
+    width: 28%;
+    float: left;
+    height: 360px;
+    border: 1px solid #d1dbe5;
+    margin-top: 21px;
+    li{
+      height: 30px;
+      line-height: 30px;
+      padding: 0 6%;
+      span{
+        display: inline-block;
+        width: 31.3%;
+        &:nth-child(2){
+          text-align: center;
+        }
+        &:last-child{
+          text-align: right;
+        }
+      }
+      &.table-bg{
+        background: #eef1f6;
+      }
+      &.cel2{
+        span{
+          width: 48%;
+          text-overflow: ellipsis;
+          overflow: hidden;
+          white-space: nowrap;
+        }
+      }
+      &:last-child{
+        border-top: #d1dbe5;
+      }
+    }
+  }
+}
+.note-des{
+  line-height: 1.8em;
+  padding: 8px 0;
+  color: #5e7382;
+}

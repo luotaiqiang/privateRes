@@ -1,0 +1,195 @@
+{
+  "success": true,
+  "zhangfList": [
+    {
+      "stkName": "中国中车",
+      "price": "21.36",
+      "zd": "12.3",
+      "zhangf": "+1.2%"
+    },
+    {
+      "stkName": "波导股份",
+      "price": "21.36",
+      "zd": "12.3",
+      "zhangf": "+1.2%"
+    },
+    {
+      "stkName": "南京化纤",
+      "price": "21.36",
+      "zd": "12.3",
+      "zhangf": "+1.2%"
+    },
+    {
+      "stkName": "方盛制药",
+      "price": "21.36",
+      "zd": "12.3",
+      "zhangf": "+1.2%"
+    },
+    {
+      "stkName": "永安行",
+      "price": "21.36",
+      "zd": "12.3",
+      "zhangf": "+1.2%"
+    }
+  ],
+  "zhangfListDesc": [
+    {
+      "stkName": "中国中车",
+      "price": "21.36",
+      "zd": "12.3",
+      "zhangf": "+1.2%"
+    },
+    {
+      "stkName": "波导股份",
+      "price": "21.36",
+      "zd": "12.3",
+      "zhangf": "+1.2%"
+    },
+    {
+      "stkName": "南京化纤",
+      "price": "21.36",
+      "zd": "12.3",
+      "zhangf": "+1.2%"
+    },
+    {
+      "stkName": "方盛制药",
+      "price": "21.36",
+      "zd": "12.3",
+      "zhangf": "+1.2%"
+    },
+    {
+      "stkName": "永安行",
+      "price": "21.36",
+      "zd": "12.3",
+      "zhangf": "+1.2%"
+    }
+  ],
+  "volList": [
+    {
+      "stkName": "上海银行",
+      "price": "21.36",
+      "zhangf": "12.3",
+      "vol": "+1.2%"
+    },
+    {
+      "stkName": "国泰君安",
+      "price": "21.36",
+      "zhangf": "12.3",
+      "vol": "+1.2%"
+    },
+    {
+      "stkName": "长安汽车",
+      "price": "21.36",
+      "zhangf": "12.3",
+      "vol": "+1.2%"
+    },
+    {
+      "stkName": "山东钢铁",
+      "price": "21.36",
+      "zhangf": "12.3",
+      "vol": "+1.2%"
+    },
+    {
+      "stkName": "招商银行",
+      "price": "21.36",
+      "zhangf": "12.3",
+      "vol": "+1.2%"
+    }
+  ],
+  "volListDesc": [
+    {
+      "stkName": "中国石化",
+      "price": "21.36",
+      "zhangf": "-1.2%",
+      "vol": "12.3"
+    },
+    {
+      "stkName": "康隆达",
+      "price": "21.36",
+      "zhangf": "-1.2%",
+      "vol": "12.3"
+    },
+    {
+      "stkName": "安记食品",
+      "price": "21.36",
+      "zhangf": "-1.2%",
+      "vol": "12.3"
+    },
+    {
+      "stkName": "三一重工",
+      "price": "21.36",
+      "zhangf": "-1.2%",
+      "vol": "12.3"
+    },
+    {
+      "stkName": "联泰环保",
+      "price": "21.36",
+      "zhangf": "-1.2%",
+      "vol": "12.3"
+    }
+  ],
+  "zdList": [
+    {
+      "stkName": "长安汽车",
+      "price": "21.36",
+      "amount": "12.3",
+      "zhangf": "+1.2%"
+    },
+    {
+      "stkName": "保利地产",
+      "price": "21.36",
+      "amount": "12.3",
+      "zhangf": "+1.2%"
+    },
+    {
+      "stkName": "科大讯飞",
+      "price": "21.36",
+      "amount": "12.3",
+      "zhangf": "+1.2%"
+    },
+    {
+      "stkName": "江南嘉捷",
+      "price": "21.36",
+      "amount": "12.3",
+      "zhangf": "+1.2%"
+    },
+    {
+      "stkName": "京东方A",
+      "price": "21.36",
+      "amount": "12.3",
+      "zhangf": "+1.2%"
+    }
+  ],
+  "zdListDesc": [
+    {
+      "stkName": "中国平安",
+      "price": "21.36",
+      "amount": "12.3",
+      "zhangf": "+1.2%"
+    },
+    {
+      "stkName": "格力电器",
+      "price": "21.36",
+      "amount": "12.3",
+      "zhangf": "+1.2%"
+    },
+    {
+      "stkName": "民生银行",
+      "price": "21.36",
+      "amount": "12.3",
+      "zhangf": "+1.2%"
+    },
+    {
+      "stkName": "东方园林",
+      "price": "21.36",
+      "amount": "12.3",
+      "zhangf": "+1.2%"
+    },
+    {
+      "stkName": "贵州茅台",
+      "price": "21.36",
+      "amount": "12.3",
+      "zhangf": "+1.2%"
+    }
+  ]
+}

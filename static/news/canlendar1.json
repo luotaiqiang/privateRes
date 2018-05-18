@@ -1,0 +1,613 @@
+{
+  "success": "true",
+  "monthList": [
+    {"value": "一月"},
+    {"value": "二月"},
+    {"value": "三月"},
+    {"value": "四月"},
+    {"value": "五月"},
+    {"value": "六月"},
+    {"value": "七月"},
+    {"value": "八月"},
+    {"value": "九月"},
+    {"value": "十月"},
+    {"value": "十一月"},
+    {"value": "十二月"}
+  ],
+  "weekList": [
+    {"value": "周一"},
+    {"value": "周二"},
+    {"value": "周三"},
+    {"value": "周四"},
+    {"value": "周五"},
+    {"value": "周六"},
+    {"value": "周日"}
+  ],
+  "monthEventBoxList": [
+    {
+      "data": "1月1日",
+      "eventList": [
+        {
+          "stkName": "",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月2日",
+      "eventList": [
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月3日",
+      "eventList": [
+        {
+          "stkName": "",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月4日",
+      "eventList": [
+        {
+          "stkName": "",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月5日",
+      "eventList": [
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月6日",
+      "eventList": [
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月7日",
+      "eventList": [
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月8日",
+      "eventList": [
+        {
+          "stkName": "",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月9日",
+      "eventList": [
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月10日",
+      "eventList": [
+        {
+          "stkName": "",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月11日",
+      "eventList": [
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月12日",
+      "eventList": [
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月13日",
+      "eventList": [
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月14日",
+      "eventList": [
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月15日",
+      "eventList": [
+        {
+          "stkName": "",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月16日",
+      "eventList": [
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月17日",
+      "eventList": [
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月18日",
+      "eventList": [
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月19日",
+      "eventList": [
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月20日",
+      "eventList": [
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月21日",
+      "eventList": [
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月22日",
+      "eventList": [
+        {
+          "stkName": "",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月23日",
+      "eventList": [
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月24日",
+      "eventList": [
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月25日",
+      "eventList": [
+        {
+          "stkName": "",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月26日",
+      "eventList": [
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月27日",
+      "eventList": [
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月28日",
+      "eventList": [
+        {
+          "stkName": "",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月29日",
+      "eventList": [
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月30日",
+      "eventList": [
+        {
+          "stkName": "",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    }
+  ],
+  "weekEventBoxList": [
+    {
+      "data": "1月1日",
+      "eventList": [
+        {
+          "stkName": "",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月2日",
+      "eventList": [
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月3日",
+      "eventList": [
+        {
+          "stkName": "",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月4日",
+      "eventList": [
+        {
+          "stkName": "",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月5日",
+      "eventList": [
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月6日",
+      "eventList": [
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    },
+    {
+      "data": "1月7日",
+      "eventList": [
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "stkName": "国泰君安",
+          "event": "发布业绩预告"
+        },
+        {
+          "event": "发布业绩预告"
+        }
+      ]
+    }
+  ],
+  "dataList": [
+    {"week": "周一", "data": "1月10日"},
+    {"week": "周二", "data": "1月11日"},
+    {"week": "周三", "data": "1月12日"},
+    {"week": "周四", "data": "1月13日"},
+    {"week": "周五", "data": "1月14日"},
+    {"week": "周六", "data": "1月15日"},
+    {"week": "周日", "data": "1月16日"}
+  ]
+}

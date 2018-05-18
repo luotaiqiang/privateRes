@@ -1,0 +1,49 @@
+{
+  "success": true,
+  "zxgStock": [
+    {
+      "id": "0", 
+      "name": "国泰君安", 
+      "code": "SH600519", 
+      "nowPrice": "6.71", 
+      "numChange": "0.59", 
+      "percent": "3.22", 
+      "volume": "4322.62", 
+      "value": "7216.86", 
+      "mark": "混改、区块链"
+    },
+    {
+      "id": "1", 
+      "name": "伊利股份", 
+      "code": "SH600519", 
+      "nowPrice": "20.36", 
+      "numChange": "0.59", 
+      "percent": "3.22", 
+      "volume": "4322.62", 
+      "value": "7216.86", 
+      "mark": "混改、区块链"
+    },
+    {
+      "id": "2", 
+      "name": "万科A", 
+      "code": "SH600519", 
+      "nowPrice": "3.22", 
+      "numChange": "0.59", 
+      "percent": "3.22", 
+      "volume": "4322.62", 
+      "value": "7216.86", 
+      "mark": "混改、区块链"
+    },
+    {
+      "id": "3", 
+      "name": "贵州茅台", 
+      "code": "SH600519", 
+      "nowPrice": "686.72", 
+      "numChange": "0.59", 
+      "percent": "3.22", 
+      "volume": "4322.62", 
+      "value": "7216.86", 
+      "mark": "混改、区块链"
+    }
+  ]
+}

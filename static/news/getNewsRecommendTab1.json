@@ -1,0 +1,129 @@
+{
+	"success":true,
+
+	"infoAbstract":[
+		{
+		"stockCode":"300512",
+		"score":12.427468463484118,
+		"stars":5.0,
+		"stockName":"国农科技"
+		},
+		{
+		"stockCode":"000976",
+		"score":10.141872791889956,
+		"stars":4.1,
+		"stockName":"民生银行"
+		},
+		{
+		"stockCode":"600223",
+		"score":8.747395259914098,
+		"stars":3.5,
+		"stockName":"鲁商置业"
+		},
+		{
+		"stockCode":"600656",
+		"score":5.463551565768682,
+		"stars":2.2,
+		"stockName":"泛海控股"
+		},
+		{
+		"stockCode":"002547",
+		"score":5.415740584621171,
+		"stars":2.2,
+		"stockName":"江阴银行"
+		}
+	],
+	"itemList":[
+		{
+			"themeCode":"182",
+			"picPath":"",
+			"themeName":"银行",
+			"newestInfoId":"539971512841976",
+			"themeIdxChgRate":"-0.015400",
+			"updateTime":"2017-02-20 15:41:43:853",
+			"newestInfoCont":"",
+			"newestInfoAbstract":"",
+			"newestInfoPubTime":"2017-02-13 09:56:45:000",
+			"themeIdx":"1002.780000",
+			"themeStocks":"000001.SZ,平安银行||002807.SZ,江阴银行||600000.SH,浦发银行||600015.SH,华夏银行||600016.SH,民生银行||600036.SH,招商银行||600908.SH,无锡银行||600919.SH,江苏银行||600926.SH,杭州银行||601009.SH,南京银行||601128.SH,常熟银行||601166.SH,兴业银行||601169.SH,北京银行||601229.SH,上海银行||601288.SH,农业银行||601328.SH,交通银行||601398.SH,工商银行||601818.SH,光大银行||601939.SH,建设银行||601988.SH,中国银行||601997.SH,贵阳银行||601998.SH,中信银行||603323.SH,吴江银行",
+			"newestInfoTitle":"",
+			"newestInfoClickNum":"12",
+			"tag":"",
+			"newestInfoInfoContUrl":""
+		}
+		,
+		{
+			"themeCode":"106",
+			"picPath":"http:\/\/image.news.21fid.com\/fid\/cms\/topic\/images\/106.jpg",
+			"themeName":"房地产",
+			"newestInfoId":"570126789082019",
+			"themeIdxChgRate":"-0.037800",
+			"updateTime":"2018-02-06 11:55:13:513",
+			"newestInfoCont":"",
+			"newestInfoAbstract":"2018年伊始，房企销售热度不减，首月实现开门红。据克而瑞统计数据，今年1月，TOP100房企总体业绩同比上升。TOP100房企销售金额和面积的总体规模分别同比增长57.8%和43.9%。各梯队的门槛值也再次提升，行业前三家房企单月业绩均超过600亿，TOP10业绩门槛值达到150亿元，同比大幅增长超58%；TOP20的业绩门槛值达到87.4亿，同比增长71%。",
+			"newestInfoPubTime":"2018-02-01 11:42:12:000",
+			"themeIdx":"1317.190000",
+			"themeStocks":"000002.SZ,万  科Ａ||000046.SZ,泛海控股||000402.SZ,金 融 街||000671.SZ,阳 光 城||000718.SZ,苏宁环球||000732.SZ,泰禾集团||000918.SZ,嘉凯城||001979.SZ,招商蛇口||002146.SZ,荣盛发展||600048.SH,保利地产||600208.SH,新湖中宝||600266.SH,北京城建||600340.SH,华夏幸福||600376.SH,首开股份||600383.SH,金地集团||600533.SH,栖霞建设||600606.SH,绿地控股",
+			"newestInfoTitle":"房企1月销售实现开门红TOP100销售金额大增逾5成",
+			"newestInfoClickNum":"0",
+			"tag":"",
+			"newestInfoInfoContUrl":"\/ZXDB\/201802\/9002\/TEXT\/314EA0F2-066E-4F98-95B4-D13656CA08E2.txt"
+		}
+		,
+		{
+			"themeCode":"137",
+			"picPath":"",
+			"themeName":"举牌",
+			"newestInfoId":"537871094088741",
+			"themeIdxChgRate":"-0.006300",
+			"updateTime":"2017-02-20 15:41:43:637",
+			"newestInfoCont":"",
+			"newestInfoAbstract":"",
+			"newestInfoPubTime":"2016-12-13 17:09:27:000",
+			"themeIdx":"929.372100",
+			"themeStocks":"000004.SZ,国农科技||000715.SZ,中兴商业||002058.SZ,威 尔 泰||002213.SZ,特 尔 佳||002278.SZ,神开股份||002569.SZ,步森股份||300277.SZ,海联讯||300340.SZ,科恒股份||600183.SH,生益科技||600766.SH,园城黄金",
+			"newestInfoTitle":"",
+			"newestInfoClickNum":"0",
+			"tag":"",
+			"newestInfoInfoContUrl":""
+		}
+		,
+		{
+			"themeCode":"186",
+			"picPath":"http:\/\/image.news.21fid.com\/fid\/cms\/topic\/images\/186.jpg",
+			"themeName":"广东自贸区",
+			"newestInfoId":"570126788768664",
+			"themeIdxChgRate":"-0.036500",
+			"updateTime":"2018-02-06 11:55:13:217",
+			"newestInfoCont":"",
+			"newestInfoAbstract":"在26日举行的广东省十三届人大一次会议将举行第一场记者会上，广东省商务厅厅长郑建荣回答记者提问时表示，商务部门正研究出台广东省加快构建开放型经济新体制的行动方案。",
+			"newestInfoPubTime":"2018-01-26 16:05:18:000",
+			"themeIdx":"1137.030000",
+			"themeStocks":"000005.SZ,世纪星源||000022.SZ,深赤湾Ａ||000029.SZ,深深房Ａ||000088.SZ,盐 田 港||000507.SZ,珠海港||000524.SZ,岭南控股||000529.SZ,广弘控股||002016.SZ,世荣兆业||002336.SZ,人人乐||002672.SZ,东江环保||600098.SH,广州发展||600185.SH,格力地产||600325.SH,华发股份||601228.SH,广州港",
+			"newestInfoTitle":"广东争取自贸试验区2.0版尽快获批",
+			"newestInfoClickNum":"0",
+			"tag":"",
+			"newestInfoInfoContUrl":"\/ZXDB\/201801\/9002\/TEXT\/930D237E-A30B-44E0-A8AA-E093FEF5CC91.txt"
+		}
+		,
+		{
+			"themeCode":"288",
+			"picPath":"http:\/\/image.news.21fid.com\/fid\/cms\/topic\/images\/288.jpg",
+			"themeName":"深汕合作",
+			"newestInfoId":"561736502022123",
+			"themeIdxChgRate":"-0.021800",
+			"updateTime":"2018-02-06 11:55:12:517",
+			"newestInfoCont":"",
+			"newestInfoAbstract":"据报道，近日，深圳市对口支援工作领导小组副组长陈彪率队赴深汕特别合作区，围绕深圳全面对口帮扶汕尾及合作区产业发展等情况深入调研。",
+			"newestInfoPubTime":"2017-10-20 13:38:57:000",
+			"themeIdx":"804.510000",
+			"themeStocks":"000006.SZ,深振业Ａ||000014.SZ,沙河股份||000019.SZ,深深宝Ａ||000029.SZ,深深房Ａ||000058.SZ,深 赛 格||000088.SZ,盐 田 港||000534.SZ,万泽股份||002256.SZ,兆新股份||002548.SZ,金新农||600548.SH,深高速||601139.SH,深圳燃气",
+			"newestInfoTitle":"市对口支援工作领导小组赴深汕特别合作区调研",
+			"newestInfoClickNum":"0",
+			"tag":"",
+			"newestInfoInfoContUrl":"\/ZXDB\/201710\/9002\/TEXT\/4A0CC1B6-FD59-4324-881C-3EE89DC0AF06.txt"
+		}
+		
+
+	]
+}

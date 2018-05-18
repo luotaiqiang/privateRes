@@ -1,0 +1,126 @@
+/*
+ * @Author:duyun
+ * @Date: 2017-09-20
+ * @Description: 共用样式，侧边栏定义
+*/
+@import "../mixin.less";
+@import "../variable.less";
+
+.sidebar{
+  text-align: left;
+  width: 175px;
+  background: @white;
+  font-size: 1.4rem;
+  float: left;
+  padding-bottom: 100px;
+  .el-menu-item{
+    width: 100%;
+  }
+  .sidebar-title{
+    padding: 10px 3px;
+    border-bottom: 1px solid #EDEDED;
+    .iconfont{
+      position: relative;
+      top: -.1rem;
+      font-size: 1.4rem;
+      padding-right: 5px;
+    }
+  }
+  .sidebar-li{
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    &>a{
+      color: #333;
+      padding: 10px 25px;
+      display: inline-block;
+    }
+    cursor: pointer;
+    .icon-icon_righttoparrow{
+      position: relative;
+      top: 12px;
+      float: right;
+      color: #888;
+      font-size: 1.2rem;
+    }
+    &.router-link-active{
+      color:@header-color;
+    }
+    &:hover{
+      background: @header-color;
+      a{
+        color: @white;
+      }
+      .icon-icon_righttoparrow{
+        color: @white;
+      }
+      .tip-menu{
+        display: block !important;
+      }
+    }
+    &.sidebar-title:hover{
+      background: inherit;
+      color: inherit;
+    }
+  }
+}
+.tip-menu{
+  display: none;
+  position: absolute;
+  left: 175px;
+  top: 0;
+  z-index: 100;
+  padding: 10px 5px;
+  background: @header-color;
+  color: rgba(255,255,255,.9);
+  font-size: 1.3rem;
+  &.basic{
+    width: 125px;
+  }
+  &.hy{
+    height: 479px;
+  }
+  &.ph{
+    height: 245px;
+  }
+  ul{
+    float: left;
+    writing-mode: vertical-lr;
+  }
+  li{
+    display: inline-block;
+    writing-mode: horizontal-tb;
+    width: 145px;
+    float: none;
+    position: relative;
+    padding: 5px 10px;
+    z-index: 100;
+    /* &:nth-child(1){
+      padding-top: 15px;
+    } */
+    /* &:last-child{
+      padding-bottom: 15px;
+    } */
+    span{
+      position: relative;
+      top: -.25rem;
+      display: inline-block;
+      background:rgba(255,255,255,.9);
+      width: 1.2em;
+      height: 1em;
+      line-height: 1em;
+      text-align: center;
+      color: #444;
+      &.bg-w{
+        background: @header-color;
+      }
+    }
+    a{
+      display: inline-block;
+      max-width: 100px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+  }
+}

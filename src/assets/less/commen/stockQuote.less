@@ -1,0 +1,39 @@
+/*
+ * @Author:duyun
+ * @Date: 2017-09-20
+ * @Description: 共用样式，标题
+*/
+
+@import "../mixin.less";
+@import "../variable.less";
+
+.quote-box{
+  width: 25%;
+  float: left;
+  text-align: left;
+  .quote-name{
+    text-decoration: none;
+    color: #0055a2;
+    font-size: 1.6rem;
+    word-break: break-all;
+    outline: 0;
+    margin-bottom: 5px;
+    cursor: default;
+  }
+  .quote-current{
+    margin-bottom: 10px;
+    span:nth-child(1){
+      font-size: 1.3rem;
+    }
+  }
+  .quote-echart{
+    height: 195px;
+  }
+  .quote-value{
+    color: #999;
+    margin-top: 10px;
+    p{
+      line-height: 1.5em;
+    }
+  }
+}

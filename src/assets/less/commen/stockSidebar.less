@@ -1,0 +1,27 @@
+/*
+ * @Author:duyun
+ * @Date: 2017-09-20
+ * @Description: 共用样式，个股页面侧边栏
+*/
+@import "../mixin.less";
+@import "../variable.less";
+
+.stock-sidebar{
+  display: inline-block;
+  width: 100px;
+  float: left;
+  font-size: 1.3rem;
+  line-height: 2.5em;
+  padding-bottom: 20px;
+  a{
+    color: @text-color;
+    &:hover{
+      color: @text-color-primary;
+    }
+  }
+  .stock-title{
+    font-weight: bold;
+    border-bottom:1px solid #f4f4f4;
+    margin-top: 20px;
+  }
+}

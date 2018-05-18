@@ -1,0 +1,121 @@
+/*
+ * @Author:duyun
+ * @Date: 2017-09-20
+ * @Description: mixin定义，可根据需要增加
+*/
+
+// ---------------------------------------------------------------------
+// 透明
+// ---------------------------------------------------------------------
+.opacity(@opacity: 0.95) {
+  opacity: @opacity;
+  -webkit-opacity: @opacity;
+  -o-opacity: @opacity;
+  -moz-opacity: @opacity;
+  -ms-opacity:@opacity;
+}
+
+// ---------------------------------------------------------------------
+// 背景图片
+// ---------------------------------------------------------------------
+.background(@bg:transparent,@image:"#",@repeate:none-repate) {
+  background: @bg url(~"@{image}") @repeate;
+}
+
+.background-size(@size:75%) {
+  -moz-background-size: auto @size;
+  -webkit-background-size: auto @size;
+  background-size: auto @size;
+}
+
+.background-size2(@size:100%) {
+  -moz-background-size: @size;
+  -webkit-background-size: @size;
+  background-size: @size;
+}
+
+// ---------------------------------------------------------------------
+// 圆角，默认5像素
+// ---------------------------------------------------------------------
+
+.border-radius (@radius: 5px) {
+  -webkit-border-radius: @radius;
+  -moz-border-radius: @radius;
+  border-radius: @radius;
+}
+
+.border-radius-custom (@topleft: 5px, @topright: 5px, @bottomleft: 5px, @bottomright: 5px) {
+  -webkit-border-radius: @topleft @topright @bottomright @bottomleft;
+  -moz-border-radius: @topleft @topright @bottomright @bottomleft;
+  border-radius: @topleft @topright @bottomright @bottomleft;
+}
+
+// ---------------------------------------------------------------------
+// 方块阴影
+// ---------------------------------------------------------------------
+.box-shadow (@x: 0px, @y: 3px, @blur: 5px, @alpha: 0.5) {
+  -webkit-box-shadow: @x @y @blur rgba(0, 0, 0, @alpha);
+  -moz-box-shadow: @x @y @blur rgba(0, 0, 0, @alpha);
+  box-shadow: @x @y @blur rgba(0, 0, 0, @alpha);
+}
+
+// ---------------------------------------------------------------------
+// 过渡效果
+.transition (@prop: all, @time: 1s, @ease: linear) {
+  -webkit-transition: @prop @time @ease;
+  -moz-transition: @prop @time @ease;
+  -o-transition: @prop @time @ease;
+  -ms-transition: @prop @time @ease;
+  transition: @prop @time @ease;
+}
+//view_port:transition
+.transitionView(@time:0.3s){
+  transition-duration:@time;
+  -moz-transition:@time;
+  -o-transition:@time;
+  -webkit-transition:@time;
+}
+
+
+// ---------------------------------------------------------------------
+// 线性渐变效果
+// ---------------------------------------------------------------------
+.gradient (@origin: left, @start: #ffffff, @stop: #000000) {
+  background-color: @start;
+  background-image: -webkit-linear-gradient(@origin, @start, @stop);
+  background-image: -moz-linear-gradient(@origin, @start, @stop);
+  background-image: -o-linear-gradient(@origin, @start, @stop);
+  background-image: -ms-linear-gradient(@origin, @start, @stop);
+  background-image: linear-gradient(@origin, @start, @stop);
+}
+
+// ---------------------------------------------------------------------
+// 内容渲染区域
+// ---------------------------------------------------------------------
+.box-sizing(@prop:border-box) {
+  box-sizing: @prop;
+  -moz-box-sizing: @prop;
+  -webkit-box-sizing: @prop;
+}
+
+//----------------------------------------------------------------------
+// 旋转
+//----------------------------------------------------------------------
+.transform-rotate(@rotate:45deg){
+  -moz-transform: rotate(@rotate);
+  -ms-transform: rotate(@rotate);
+  -o-transform: rotate(@rotate);
+  -webkit-transform: rotate(@rotate);
+  transform: rotate(@rotate);
+}
+
+//----------------------------------------------------------------------
+//单行显示，多余显示为"...."
+//----------------------------------------------------------------------
+.text-overflow(@display) {
+  display: @display;
+  word-wrap: normal;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}

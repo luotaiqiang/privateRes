@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "indexValue": [
+    {"id": "0", "indexName": "上证指数", "indexValue": "3370.17", "indexRisePer": "5.58", "indexRise": "55.36"},
+    {"id": "1", "indexName": "深证指数", "indexValue": "12689.55", "indexRisePer": "10.00", "indexRise": "1268.96"},
+    {"id": "2", "indexName": "创业板指数", "indexValue": "1862.61", "indexRisePer": "0.00", "indexRise": "0.01"},
+    {"id": "3", "indexName": "沪深300", "indexValue": "3931.25", "indexRisePer": "-2.56", "indexRise": "55.39"}
+  ]
+}

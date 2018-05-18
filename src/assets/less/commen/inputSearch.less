@@ -1,0 +1,82 @@
+/*
+ * @Author:duyun
+ * @Date: 2017-09-20
+ * @Description: 搜索框
+*/
+
+@import "../mixin.less";
+@import "../variable.less";
+
+@gray:#e2e2e2;
+.input-serch{
+  position: relative;
+}
+.search-box{
+  position: relative;
+  height: 30px;
+  line-height: 27px;
+  margin-top: 25px;
+  padding-left: 20px;
+  border: 1px solid @gray;
+  border-radius: 25px;
+  .search{
+    width: 95%;
+    outline: none;
+    font-size: 1.6rem;
+  }
+  .icon-search{
+    position: absolute;
+    top: .1rem;
+    right: 0;
+    padding-right: 15px;
+    color: #e2e2e2;
+    font-size: 1.8rem;
+  }
+  &.focus{
+    border-color: @text-color-primary;
+    .icon-search{
+      color: @text-color-primary;
+    }
+  }
+}
+.search-tips{
+  position: absolute;
+  top: 30px;
+  width: 235px;
+  max-height: 350px;
+  overflow: auto;
+  background: #fff;
+  margin-top: 10px;
+  text-align: left;
+  border: 1px solid @gray;
+  z-index: 999;
+  li{
+    height: 39px;
+    line-height: 39px;
+    span{
+      position: relative;
+    }
+    a{
+      padding: 0 10px 0 5px;
+      display: inline-block;
+      width: 70%;
+      font-size: 1.5rem;
+      cursor: pointer;
+      &:hover{
+        background: @gray-color;
+      }
+    }
+  }
+}
+input::-webkit-input-placeholder {
+  color: @gray;
+  font-size: 1.4rem;
+}
+input:-moz-placeholder {
+  color: @gray;
+  font-size: 1.4rem;
+}
+input::-moz-placeholder {
+  color: @gray;
+  font-size: 1.4rem;
+}

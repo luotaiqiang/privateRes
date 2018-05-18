@@ -1,0 +1,25 @@
+/*
+ * @Author:duyun
+ * @Date: 2017-10-20
+ * @Description: 公共样式：标题导航
+*/
+
+@import "../mixin.less";
+@import "../variable.less";
+
+.title-nav{
+  float: right;
+  li{
+    float: left;
+    display: inline-block;
+    padding: 5px 24px;
+    cursor: pointer;
+    font-weight: 400;
+    border-radius: 3px 3px 0 0;
+    &.select{
+      border: 1px solid #ddd;
+      border-bottom: 1px solid #fff;
+      color: @header-color;
+    }
+  }
+}

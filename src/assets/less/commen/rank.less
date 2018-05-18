@@ -1,0 +1,46 @@
+/*
+ * @Author:duyun
+ * @Date: 2017-10-20
+ * @Description: 共用样式，股票排行
+*/
+@import "../mixin.less";
+@import "../variable.less";
+
+.rank{
+  width: 31%;
+  margin-right: 35px;
+  float: left;
+  &:last-child{
+    margin-right: 0;
+  }
+  .rank-title{
+    text-align: left;
+    font-size: 1.5rem;
+    font-weight: normal;
+    padding: 0px 0 10px;
+    .order{
+      padding-left: 25px;
+      a{
+        padding-right: 15px;
+        cursor: pointer;
+        color: #999;
+        &.select{
+          &:first-child{
+            color: #c10;
+          }
+          &:last-child{
+            color: #383;
+          }
+        }
+      }
+    }
+  }
+  .styleFlagRise td:nth-child(n + 2) {
+    color: #d53;
+  }
+  .styleFlagDrop td:nth-child(n + 2) {
+    color: #390;
+  }
+}
+
+

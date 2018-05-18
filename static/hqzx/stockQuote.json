@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "hqQuoteList": [
+    {
+      "indexName": "上证指数",
+      "indexValue": "3327.90",
+      "indexRise": "1.30",
+      "indexRisePer": "+0.21%",
+      "stockTurnover": "5631.23",
+      "valueHigh": "12.3",
+      "valueLown": "52.3"
+    },
+    {
+      "indexName": "深圳成指",
+      "indexValue": "3327.90",
+      "indexRise": "1.30",
+      "indexRisePer": "+0.21%",
+      "stockTurnover": "5631.23",
+      "valueHigh": "12.3",
+      "valueLown": "52.3"
+    },
+    {
+      "indexName": "沪深300",
+      "indexValue": "3327.90",
+      "indexRise": "1.30",
+      "indexRisePer": "+0.21%",
+      "stockTurnover": "5631.23",
+      "valueHigh": "12.3",
+      "valueLown": "52.3"
+    },
+    {
+      "indexName": "创业扳指",
+      "indexValue": "3327.90",
+      "indexRise": "-1.30",
+      "indexRisePer": "-0.21%",
+      "stockTurnover": "5631.23",
+      "valueHigh": "12.3",
+      "valueLown": "52.3"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+	"success":true,
+  "sidebarList": [
+    {
+      "id": "1",
+      "message": "基础分类",
+      "class": "basic",
+      "tipMenuList": [
+        {
+          "tipMenuContList": [
+            {"classify": "C", "industry": "创业板", "src": "/Basic"},
+            {"classify": "H", "industry": "沪市A股", "src": "/Basic"},
+            {"industry": "沪市B股", "class": "bg-w", "src": "/Basic"},
+            {"classify": "S", "industry": "深市A股", "src": "/Basic"},
+            {"industry": "深市B股", "class": "bg-w", "src": "/Basic"},
+            {"classify": "X", "industry": "新三板协议", "src": "/Basic"},
+            {"industry": "新三板做市", "class": "bg-w", "src": "/Basic"},
+            {"classify": "Z", "industry": "中小企业", "src": "/Basic"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "message": "分行业",
+      "class": "hy",
+      "tipMenuList": [
+        {
+          "tipMenuContList": [
+            {"classify": "B", "industry": "保险业", "src": "/Diff"},
+            {"classify": "C", "industry": "仓储业", "src": "/Diff"},
+            {"industry": "餐饮业", "class": "bg-w", "src": "/Diff"},
+            {"classify": "D", "industry": "电器、热力生产业和生产业", "src": "/Diff"},
+            {"industry": "道路运输业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "电气机械和器材制造业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "电信、广播电视和卫星传输服务", "class": "bg-w", "src": "/Diff"},
+            {"classify": "F", "industry": "房地产业", "src": "/Diff"},
+            {"industry": "非金属矿采选业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "非金属矿物制品业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "废弃资源综合利用业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "房屋建筑业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "纺织服装、服饰业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "纺织业", "class": "bg-w", "src": "/Diff"},
+            {"classify": "G", "industry": "广播、电视、电影和影视录音制作业", "src": "/Diff"},
+            {"industry": "管道运输业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "公共设施管理业", "class": "bg-w", "src": "/Diff"},
+            {"classify": "H", "industry": "货币金融服务", "src": "/Diff"},
+            {"industry": "航空运输业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "互联网和相关服务", "class": "bg-w", "src": "/Diff"}
+          ]
+        },
+        {
+          "tipMenuContList": [
+            {"industry": "黑色金属矿采选业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "黑色金属冶炼和压延加工业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "化学纤维制造业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "化学原料和化学制品制造业", "class": "bg-w", "src": "/Diff"},
+            {"classify": "H", "industry": "家具制造业", "src": "/Diff"},
+            {"industry": "计算机、通信和其他电子设备制造业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "金属制品业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "教育", "class": "bg-w", "src": "/Diff"},
+            {"industry": "酒、饮料和精制茶制造业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "建筑安装业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "建筑装饰和其他建筑业", "class": "bg-w", "src": "/Diff"},
+            {"classify": "K", "industry": "开采辅助活动", "src": "/Diff"},
+            {"classify": "L", "industry": "零售业", "src": "/Diff"},
+            {"industry": "林业", "class": "bg-w", "src": "/Diff"},
+            {"classify": "M", "industry": "木材加工和木、竹、藤、棕、草制品业", "src": "/Diff"},
+            {"industry": "煤炭开采和洗选业", "class": "bg-w", "src": "/Diff"},
+            {"classify": "N", "industry": "农副食品加工业", "src": "/Diff"},
+            {"industry": "农、林、牧、渔服务业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "农业", "class": "bg-w", "src": "/Diff"},
+            {"classify": "P", "industry": "批发业", "src": "/Diff"}
+          ]
+        },
+        {
+          "tipMenuContList": [
+            {"industry": "皮革、毛皮、羽毛及其制品和制鞋业", "class": "bg-w", "src": "/Diff"},
+            {"classify": "Q", "industry": "汽车制造业", "src": "/Diff"},
+            {"industry": "其他金融业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "其他制造业", "class": "bg-w", "src": "/Diff"},
+            {"classify": "R", "industry": "燃气生产和供应业", "src": "/Diff"},
+            {"classify": "S", "industry": "水的生产和供应业", "src": "/Diff"},
+            {"industry": "食品制造业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "水上运输业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "生态保护和环境治理业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "商务服务业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "石油和天然气开采业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "石油加工、炼焦和核燃料加工业", "class": "bg-w", "src": "/Diff"},
+            {"classify": "T", "industry": "铁路、船舶、航空航天和其他运输设备制造业", "src": "/Diff"},
+            {"industry": "铁路运输业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "体育", "class": "bg-w", "src": "/Diff"},
+            {"industry": "通用设备制造业", "class": "bg-w", "src": "/Diff"},
+            {"classify": "W", "industry": "文化艺术业", "src": "/Diff"},
+            {"industry": "文教、工美、体育和娱乐用品制造业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "卫生", "class": "bg-w", "src": "/Diff"},
+            {"classify": "X", "industry": "橡胶和塑料制品业", "src": "/Diff"}
+          ]
+        },
+        {
+          "tipMenuContList": [
+            {"industry": "新闻和出版业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "研究和试验发展", "class": "bg-w", "src": "/Diff"},
+            {"classify": "Y", "industry": "仪器仪表制造业", "src": "/Diff"},
+            {"industry": "印刷和记录媒介复制业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "有色金属矿采选业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "有色金属冶炼和压延加工业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "渔业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "医药制造业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "邮政业", "class": "bg-w", "src": "/Diff"},
+            {"classify": "Z", "industry": "资本市场服务", "src": "/Diff"},
+            {"industry": "综合", "class": "bg-w", "src": "/Diff"},
+            {"industry": "租赁业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "住宿业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "装卸搬运和运输代理业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "专业技术服务业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "专用设备制造业", "class": "bg-w", "src": "/Diff"},
+            {"industry": "造纸和纸制品业", "class": "bg-w", "src": "/Diff"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "message": "排行",
+      "class": "ph",
+      "tipMenuList": [
+        {
+          "tipMenuContList": [
+            {"classify": "C", "industry": "创业板涨幅", "src": "/Rank"},
+            {"industry": "创业板跌幅", "class": "bg-w", "src": "/Rank"},
+            {"industry": "创业板成交额", "class": "bg-w", "src": "/Rank"},
+            {"industry": "创业板成交量", "class": "bg-w", "src": "/Rank"},
+            {"classify": "H", "industry": "沪A涨幅", "src": "/Rank"},
+            {"industry": "沪A跌幅", "class": "bg-w", "src": "/Rank"},
+            {"industry": "沪A成交额", "class": "bg-w", "src": "/Rank"},
+            {"industry": "沪A成交量", "class": "bg-w", "src": "/Rank"}
+          ]
+        },
+        {
+          "tipMenuContList": [
+            {"industry": "沪B涨幅", "class": "bg-w", "src": "/Rank"},
+            {"industry": "沪B跌幅", "class": "bg-w", "src": "/Rank"},
+            {"industry": "沪B成交额", "class": "bg-w", "src": "/Rank"},
+            {"industry": "沪B成交量", "class": "bg-w", "src": "/Rank"},
+            {"classify": "S", "industry": "深A涨幅", "src": "/Rank"},
+            {"industry": "深A跌幅", "class": "bg-w", "src": "/Rank"},
+            {"industry": "深A成交额", "class": "bg-w", "src": "/Rank"},
+            {"industry": "深A成交量", "class": "bg-w", "src": "/Rank"}
+          ]
+        },
+        {
+          "tipMenuContList": [
+            {"industry": "深B涨幅", "class": "bg-w", "src": "/Rank"},
+            {"industry": "深B跌幅", "class": "bg-w", "src": "/Rank"},
+            {"industry": "深B成交额", "class": "bg-w", "src": "/Rank"},
+            {"industry": "深B成交量", "class": "bg-w", "src": "/Rank"},
+            {"classify": "Z", "industry": "中小企业涨幅", "src": "/Rank"},
+            {"industry": "中小企业跌幅", "class": "bg-w", "src": "/Rank"},
+            {"industry": "中小企业成交额", "class": "bg-w", "src": "/Rank"},
+            {"industry": "中小企业成交量", "class": "bg-w", "src": "/Rank"}
+          ]
+        }
+      ]
+    }
+  ]
+}

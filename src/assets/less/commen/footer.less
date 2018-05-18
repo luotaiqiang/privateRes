@@ -1,0 +1,198 @@
+/*
+ * @Author:duyun
+ * @Date: 2017-09-20
+ * @Description: 共用样式，底部页脚
+*/
+
+@import "../mixin.less";
+@import "../variable.less";
+
+.gtja-footer{
+  background: @white;
+  text-align: left;
+  padding-top: 35px;
+  &.fixed{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+  .footer-l{
+    width: 60%;
+    float: left;
+    .footer-link{
+      margin-top: 15px;
+      img{
+        width: 30px;
+      }
+      a{
+        color: #666;
+        line-height: 2;
+        &+a{
+          border-left: 1px solid #b2b2b2;
+          padding: 0 0 0 8px;
+          margin-left: 8px;
+        }
+      }
+    }
+  }
+  .footer-r{
+    width: 40%;
+    float: left;
+  }
+  .footer-select{
+    position: relative;
+    z-index: 1;
+    width: 155px;
+    height: 30px;
+    line-height: 30px;
+    padding: 0 10px 0 15px;
+    border: 1px solid #666;
+    border-radius: 20px;
+    background-color: #fff;
+    box-sizing: content-box !important;
+    .iconfont{
+      border-left: 1px solid #666;
+      float: right;
+      padding-left: 5px;
+    }
+    p{
+      font-size: 14px;
+      float: left;
+      line-height: 30px;
+      margin: 0;
+    }
+    .select-option{
+      display: none;
+      position: absolute;
+      z-index: 5;
+      top: -275px;
+      left: 0;
+      width: 210px;
+      padding-bottom: 20px;
+      .option-link{
+        position: relative;
+        background-color: @white;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-shadow: 0px 0px 20px #ccc;
+        &>a{
+          position: relative;
+          z-index: 1;
+          display: block;
+          text-align: left;
+          line-height: 30px;
+          font-size: 14px;
+          margin: 1px;
+          padding: 3px 10px;
+          color: #666;
+          &:hover{
+            background: @gray-color;
+            color: @header-color;
+          }
+        }
+      }
+    }
+    &:hover{
+      .select-option{
+        display: block;
+      }
+    }
+  }
+  .line-b{
+    position: absolute;
+    top: 31px;
+    left: 0;
+    width: 30px;
+    height: 1px;
+    background-color: #666;
+  }
+  .gtja-contact{
+    position: relative;
+    float: left;
+    margin-right: 40px;
+    p{
+      padding-top: 5px;
+    }
+    .gtja-iconfont{
+      color: #666;
+      padding-right: 3px;
+      vertical-align: middle;
+    }
+  }
+  .gtja-attention{
+    position: relative;
+    float: left;
+    .attention-icon{
+      padding-top: 10px;
+      li {
+        position: relative;
+        display: inline-block;
+        .gtja-iconfont{
+          font-size: 34px;
+        }
+        &:hover{
+          .share-tip{
+            display: block !important;
+          }
+        }
+      }
+      .iconfont{
+        font-size: 3.4rem;
+        &:hover{
+          color: #004e98;
+        }
+      }
+    }
+    .share-tip{
+      display: none;
+      position: absolute;
+      top: -85px;
+      left: -60px;
+      width: 152px;
+      height: 79px;
+      border: 1px solid #e2e2e2;
+      background-color: #fff;
+      padding: 15px;
+      text-align: center;
+      p{
+        margin-bottom: 7px;
+        font-size: 14px;
+      }
+      a{
+        color: #004e98;
+        text-decoration: underline;
+      }
+      .tips-arrow{
+        width: 12px;
+        height: 12px;
+      }
+    }
+    .share-tip1{
+      .tips-arrow{
+        left: 69px;
+        bottom: -6px;
+      }
+    }
+    .share-tip2{
+      height: 179px;
+      top: -185px;
+      left: -62px;
+      .tips-arrow{
+        left: 69px;
+        bottom: -6px;
+      }
+    }
+  }
+  .gtja-copy-right{
+    color: #999;
+    font-size: 12px;
+    line-height: 18px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+  }
+  .iconfont{
+    color: #666;
+    padding-right: 3px;
+    vertical-align: middle;
+  }
+}

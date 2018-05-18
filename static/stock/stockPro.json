@@ -1,0 +1,161 @@
+{
+  "success": true,
+  "proList": {
+    "id": "1",
+    "proSummary": "公司是在原国泰证券有限公司与原君安证券有限责任公司合并基础上组建的,1992年9月25日,经中国人民银行<关于成立国泰证券...",
+    "proDetail": "公司是在原国泰证券有限公司与原君安证券有限责任公司合并基础上组建的,1992年9月25日,经中国人民银行<关于成立国泰证券公司的批复>(银复[1992]369号)批准,国泰证券公司正式成立。1992年10月12日,经中国人民银行<关于成立深圳君安证券有限公司的批复>(银复[1992]342号)批准,君安证券有限责任公司正式成立。1999年8月15日,中国证监会下发<关于同意国泰君安证券股份有限公司开业的批复>(证监机构字[1999]77号),同意公司开业。1999年8月18日,公司取得了上海市工商局核发的<企业法人营业执照>(注册号3100001006150),公司正式成立。",
+    "proLink": "http://www.gtja.com",
+    "proAddress": "上海市浦东新区银城中路168号,香港湾仔皇后大道东28号金钟汇中心18楼",
+    "proLabel": "非银金融",
+    "eventList": [
+      {
+        "id": "1",
+        "event": "2017-08-26 国泰君安2017年半年报"
+      },
+      {
+        "id": "2",
+        "event": "2017-08-26 国泰君安2017年半年报"
+      },
+      {
+        "id": "3",
+        "event": "2017-08-26 国泰君安2017年半年报"
+      }
+    ]
+  },
+  "zqStockList": [
+    {
+      "id": "1",
+      "elTableData": [
+        {
+          "stkName": "国泰君安",
+          "stockCurrentPrice": "17",
+          "priceRiseFall": "+1.24%"
+        },
+        {
+          "stkName": "国泰君安",
+          "stockCurrentPrice": "17",
+          "priceRiseFall": "+1.24%"
+        },
+        {
+          "stkName": "国泰君安",
+          "stockCurrentPrice": "17",
+          "priceRiseFall": "+1.24%"
+        },
+        {
+          "stkName": "国泰君安",
+          "stockCurrentPrice": "17",
+          "priceRiseFall": "+1.24%"
+        },
+        {
+          "stkName": "国泰君安",
+          "stockCurrentPrice": "17",
+          "priceRiseFall": "+1.24%"
+        }
+      ],
+      "stockList": [
+        {
+          "prop": "stkName",
+          "label": "股票"
+        },
+        {
+          "prop": "stockCurrentPrice",
+          "label": "当前价"
+        },
+        {
+          "prop": "priceRiseFall",
+          "label": "涨跌幅"
+        }
+      ]
+    }
+  ],
+  "syjyStockList": [
+    {
+      "elTableData": [
+        {
+          "stkName": "国泰君安",
+          "stockCurrentPrice": "17",
+          "priceRiseFall": "+1.24%"
+        },
+        {
+          "stkName": "国泰君安",
+          "stockCurrentPrice": "17",
+          "priceRiseFall": "+1.24%"
+        },
+        {
+          "stkName": "国泰君安",
+          "stockCurrentPrice": "17",
+          "priceRiseFall": "+1.24%"
+        },
+        {
+          "stkName": "国泰君安",
+          "stockCurrentPrice": "17",
+          "priceRiseFall": "+1.24%"
+        },
+        {
+          "stkName": "国泰君安",
+          "stockCurrentPrice": "17",
+          "priceRiseFall": "+1.24%"
+        }
+      ],
+      "stockList": [
+        {
+          "prop": "stkName",
+          "label": "股票"
+        },
+        {
+          "prop": "stockCurrentPrice",
+          "label": "当前价"
+        },
+        {
+          "prop": "priceRiseFall",
+          "label": "涨跌幅"
+        }
+      ]
+    }
+  ],
+  "cxStockList": [
+    {
+      "elTableData": [
+        {
+          "stkName": "国泰君安",
+          "stockCurrentPrice": "17",
+          "priceRiseFall": "+1.24%"
+        },
+        {
+          "stkName": "国泰君安",
+          "stockCurrentPrice": "17",
+          "priceRiseFall": "+1.24%"
+        },
+        {
+          "stkName": "国泰君安",
+          "stockCurrentPrice": "17",
+          "priceRiseFall": "+1.24%"
+        },
+        {
+          "stkName": "国泰君安",
+          "stockCurrentPrice": "17",
+          "priceRiseFall": "+1.24%"
+        },
+        {
+          "stkName": "国泰君安",
+          "stockCurrentPrice": "17",
+          "priceRiseFall": "+1.24%"
+        }
+      ],
+      "stockList": [
+        {
+          "prop": "stkName",
+          "label": "股票"
+        },
+        {
+          "prop": "stockCurrentPrice",
+          "label": "当前价"
+        },
+        {
+          "prop": "priceRiseFall",
+          "label": "涨跌幅"
+        }
+      ]
+    }
+  ]
+}
