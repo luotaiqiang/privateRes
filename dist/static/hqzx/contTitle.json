@@ -1,0 +1,19 @@
+{
+  "success":true,
+  "hqContTitle": [
+    {
+      "id": "1",
+      "text1": "行情", 
+      "text2": "行情中心",
+      "src": "/index.html"
+    }
+  ],
+  "zxgContTitle": [
+    {
+      "id": "1",
+      "text1": "行情", 
+      "text2": "自选股",
+      "src": "/zxg.html"
+    }
+  ]
+}

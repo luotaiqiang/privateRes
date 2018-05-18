@@ -1,0 +1,53 @@
+{
+  "success":"true",
+  "message":"OK",
+  "count":"4",
+  "itemList":[
+    {
+      "stockCode":"002677",
+      "stockName":"浙江美大",
+      "netProfit":"4121.470502",
+      "eGrowthRateFloor":"35.0",
+      "eGrowthRateCeil":"50.0",
+      "forecastType":"预增",
+      "forecastContent":"    2018年1-3月归属于上市公司股东的净利润变动幅度35.00%至50.00%    2018年1-3月归属于上市公司股东的净利润区间(万元)5563.98至6182.21",
+      "endDate":"17621"
+    }
+    ,
+    {
+      "stockCode":"300301",
+      "stockName":"长方集团",
+      "netProfit":"213.316937",
+      "eGrowthRateFloor":"31.26",
+      "eGrowthRateCeil":"59.38",
+      "forecastType":"预增",
+      "forecastContent":"    预计2018年1月1日-2018年3月31日归属于上市公司股东的净利润比上年同期增长:31.26%-59.38%,盈利:280万元-340万元    ",
+      "endDate":"17621"
+    }
+    ,
+    {
+      "stockCode":"000663",
+      "stockName":"永安林业",
+      "netProfit":"12291.031351",
+      "eGrowthRateFloor":"1.7",
+      "eGrowthRateCeil":"9.83",
+      "forecastType":"预增",
+      "forecastContent":"    公司预计2017年度归属于上市公司股东的净利润为12500万元-13500万元,与上年相比无大幅变动",
+      "endDate":"17531"
+    }
+    ,
+    {
+      "stockCode":"300143",
+      "stockName":"星普医科",
+      "netProfit":"5109.158245",
+      "eGrowthRateFloor":"-31.5",
+      "eGrowthRateCeil":"-11.92",
+      "forecastType":"预降",
+      "forecastContent":"    预计2018年1月1日-2018年3月31日归属于上市公司股东的净利润比上年同期下降:31.50%至11.92%,盈利:3,500万元―4,500万元    ",
+      "endDate":"17621"
+    }
+    
+
+  ]
+  
+}

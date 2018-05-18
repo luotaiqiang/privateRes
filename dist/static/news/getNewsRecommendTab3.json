@@ -1,0 +1,62 @@
+{
+	"success":true,
+
+	"infoAbstract":"[{\"stockCode\":\"600656\",\"score\":82.55945975275444,\"stars\":5},{\"stockCode\":\"002547\",\"score\":45.758008272226874,\"stars\":2.8,\"stockName\":\"春兴精工\"},{\"stockCode\":\"002117\",\"score\":40.470036354345126,\"stars\":2.5,\"stockName\":\"东港股份\"},{\"stockCode\":\"600161\",\"score\":37.32841405000604,\"stars\":2.3,\"stockName\":\"天坛生物\"},{\"stockCode\":\"000718\",\"score\":35.15500817154302,\"stars\":2.1,\"stockName\":\"苏宁环球\"}]",
+	"itemList":[
+		{
+			"themeCode":"61",
+			"picPath":"http:\/\/image.news.21fid.com\/fid\/cms\/topic\/images\/61.jpg",
+			"themeName":"互联网彩票",
+			"newestInfoId":"570126788782543",
+			"themeIdxChgRate":"-0.001100",
+			"updateTime":"2018-03-02 15:06:08:500",
+			"newestInfoCont":"",
+			"newestInfoAbstract":"鸿博股份领涨，中体产业涨幅接近7%，人民网、姚记扑克、莱茵体育等跟涨。",
+			"newestInfoPubTime":"2018-01-30 11:06:55:000",
+			"themeIdx":"490.120000",
+			"themeStocks":"000558.SZ,莱茵体育||000851.SZ,高鸿股份||002117.SZ,东港股份||002229.SZ,鸿博股份||002235.SZ,安妮股份||002264.SZ,新 华 都||002605.SZ,姚记扑克||600158.SH,中体产业||600640.SH,号百控股||600770.SH,综艺股份||603000.SH,人民网",
+			"newestInfoTitle":"互联网彩票走高",
+			"newestInfoClickNum":"1",
+			"tag":"",
+			"newestInfoInfoContUrl":"\/ZXDB\/201801\/9002\/TEXT\/B4BCC911-5FBD-4B72-B8F7-6A1C7174F353.txt"
+		}
+		,
+		{
+			"themeCode":"90",
+			"picPath":"",
+			"themeName":"疫苗",
+			"newestInfoId":"540652661304210",
+			"themeIdxChgRate":"-0.013800",
+			"updateTime":"2017-02-20 15:41:43:810",
+			"newestInfoCont":"",
+			"newestInfoAbstract":"",
+			"newestInfoPubTime":"2017-02-16 17:41:22:000",
+			"themeIdx":"952.472900",
+			"themeStocks":"000597.SZ,东北制药||002007.SZ,华兰生物||002030.SZ,达安基因||002100.SZ,天康生物||002124.SZ,天邦股份||002166.SZ,莱茵生物||002688.SZ,金河生物||300119.SZ,瑞普生物||300122.SZ,智飞生物||300142.SZ,沃森生物||600161.SH,天坛生物||600195.SH,中牧股份||600572.SH,康恩贝||600789.SH,鲁抗医药||603566.SH,普莱柯",
+			"newestInfoTitle":"",
+			"newestInfoClickNum":"8",
+			"tag":"",
+			"newestInfoInfoContUrl":""
+		}
+		,
+		{
+			"themeCode":"106",
+			"picPath":"http:\/\/image.news.21fid.com\/fid\/cms\/topic\/images\/106.jpg",
+			"themeName":"房地产",
+			"newestInfoId":"570126791680549",
+			"themeIdxChgRate":"-0.007300",
+			"updateTime":"2018-03-02 15:06:35:393",
+			"newestInfoCont":"",
+			"newestInfoAbstract":"中国社科院财经战略研究院和中国社科院城市与竞争力研究中心项目组3月2日发布的《中国住房市场发展月度分析报告》显示，基于长短期政策利空及融资环境趋紧因素，预计北京、上海等一线城市房价短期仍将延续当前跌势，难以出现有力反弹。",
+			"newestInfoPubTime":"2018-03-02 14:55:54:000",
+			"themeIdx":"1184.930000",
+			"themeStocks":"000002.SZ,万  科Ａ||000046.SZ,泛海控股||000402.SZ,金 融 街||000671.SZ,阳 光 城||000718.SZ,苏宁环球||000732.SZ,泰禾集团||000918.SZ,嘉凯城||001979.SZ,招商蛇口||002146.SZ,荣盛发展||600048.SH,保利地产||600208.SH,新湖中宝||600266.SH,北京城建||600340.SH,华夏幸福||600376.SH,首开股份||600383.SH,金地集团||600533.SH,栖霞建设||600606.SH,绿地控股",
+			"newestInfoTitle":"中国社科院报告：预计北京等一线城市房价短期仍将延续当前跌势",
+			"newestInfoClickNum":"0",
+			"tag":"",
+			"newestInfoInfoContUrl":"\/ZXDB\/201803\/9002\/TEXT\/5B23520C-1D74-4E4A-B5E7-A04E34FFBEDD.txt"
+		}
+		
+
+	]
+}

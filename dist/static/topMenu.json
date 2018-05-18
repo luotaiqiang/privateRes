@@ -1,0 +1,33 @@
+{
+  "success": true,
+  "topMenus": [
+    {
+      "message": "行情",
+      "dropDownList": [
+        {"message": "行情中心", "src": "/index.html"},
+        {"message": "自选股", "src": "/zxg.html"}
+      ]
+    },
+    {
+      "message": "资讯",
+      "dropDownList": [
+        {"message": "资讯中心", "src": "/news.html"},
+        {"message": "投资者教育", "src": "/investorEdu.html"}
+      ]
+    },
+    {
+      "message": "发现",
+      "dropDownList": [
+        {"message": "牛人牛股", "src": "/nrng.html"},
+        {"message": "策略选股", "src": "/clxg.html"}
+      ]
+    },
+    {
+      "message": "交易",
+      "dropDownList": [
+        {"message": "金融商城", "src": "/mall.html"},
+        {"message": "股票交易", "src": "/stockTrade.html"}
+      ]
+    }
+  ]
+}
